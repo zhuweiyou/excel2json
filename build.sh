@@ -25,5 +25,5 @@ do
 
   go build -ldflags="-s -w" -o "$output_name"
 
-  sha256sum "output_name" > "output_name.sha256"
+  sha256sum "$output_name" > "$output_name.sha256"
 done
