@@ -14,8 +14,8 @@ platforms=(
 for platform in "${platforms[@]}"
 do
   platform_split=(${platform//\// })
-  GOOS=${platform_split[0]}
-  GOARCH=${platform_split[1]}
+  export GOOS=${platform_split[0]}
+  export GOARCH=${platform_split[1]}
 
   output_name="excel-to-json_${GOOS}_${GOARCH}"
 
