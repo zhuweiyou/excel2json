@@ -14,7 +14,7 @@ func main() {
 	}()
 
 	if len(os.Args) < 2 {
-		fmt.Println("Usage: https://github.com/zhuweiyou/excel-to-json")
+		fmt.Println("Usage: https://github.com/zhuweiyou/excel2json")
 		return
 	}
 

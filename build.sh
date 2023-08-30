@@ -17,7 +17,7 @@ do
   export GOOS=${platform_split[0]}
   export GOARCH=${platform_split[1]}
 
-  output_name="excel-to-json_${GOOS}_${GOARCH}"
+  output_name="excel2json_${GOOS}_${GOARCH}"
 
   if [ $GOOS = windows ]; then
     output_name+='.exe'

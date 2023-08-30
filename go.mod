@@ -1,4 +1,4 @@
-module github.com/zhuweiyou/excel-to-json
+module github.com/zhuweiyou/excel2json
 
 go 1.20
 

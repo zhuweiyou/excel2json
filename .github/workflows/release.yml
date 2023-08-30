@@ -24,4 +24,4 @@ jobs:
         uses: softprops/action-gh-release@v1
         with:
           files: |
-            excel-to-json_*
+            excel2json_*
