@@ -4,7 +4,7 @@
 
 ## 使用说明
 
-下载你的平台对应的可执行文件 [release]()
+下载你的平台对应的可执行文件 [release](https://github.com/zhuweiyou/excel-to-json/releases/)
 
 鼠标拖动 excel 文件到本程序图标上, 即可完成转换
 
