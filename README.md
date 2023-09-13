@@ -5,8 +5,9 @@
 ## 安装
 
 ```bash
-go install github.com:zhuweiyou/excel2json@latest
+go install github.com/zhuweiyou/excel2json@latest
 ```
+
 ## 使用
 
 ```bash
